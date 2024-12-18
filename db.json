@@ -1,0 +1,46 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "Latest smartphone with 128GB storage",
+        "price": 699,
+        "category": "Electronics",
+        "stock": 50,
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "description": "Lightweight laptop with 16GB RAM",
+        "price": 999,
+        "category": "Electronics",
+        "stock": 20,
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Comfortable running shoes",
+        "price": 79,
+        "category": "Footwear",
+        "stock": 100,
+        "imageUrl": "https://via.placeholder.com/150"
+      }
+    ],
+    "categories": [
+      { "id": 1, "name": "Electronics" },
+      { "id": 2, "name": "Footwear" },
+      { "id": 3, "name": "Clothing" }
+    ],
+    "orders": [
+      {
+        "id": 1,
+        "productId": 1,
+        "quantity": 2,
+        "totalPrice": 1398,
+        "orderDate": "2024-12-01"
+      }
+    ]
+  }
+  
