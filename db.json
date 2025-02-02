@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Smartphone",
-      "description": "Latest smartphone with 128GB storage",
-      "price": 699,
-      "category": "Electronics",
-      "stock": 50,
-      "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "ratings": 4.5
-    },
-    {
       "id": 2,
       "name": "Laptop",
       "description": "Lightweight laptop with 16GB RAM",
