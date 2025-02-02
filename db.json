@@ -1,121 +1,241 @@
 {
+
   "products": [
+
     {
+
       "id": 1,
+
       "name": "Smartphone",
+
       "description": "Latest smartphone with 128GB storage",
+
       "price": 699,
+
       "category": "Electronics",
+
       "stock": 50,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1517842644920-1b7b3b1c1c1e",
+
       "ratings": 4.5
+
     },
+
     {
+
       "id": 2,
+
       "name": "Laptop",
+
       "description": "Lightweight laptop with 16GB RAM",
+
       "price": 999,
+
       "category": "Electronics",
+
       "stock": 20,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+
       "ratings": 4.7
+
     },
+
     {
+
       "id": 3,
+
       "name": "Running Shoes",
+
       "description": "Comfortable running shoes",
+
       "price": 79,
+
       "category": "Footwear",
+
       "stock": 100,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1599058911980-1c1c1c1c1c1c",
+
       "ratings": 4.3
+
     },
+
     {
+
       "id": 4,
+
       "name": "Bluetooth Headphones",
+
       "description": "Noise-cancelling over-ear headphones",
+
       "price": 149,
+
       "category": "Electronics",
+
       "stock": 75,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1517842644920-1b7b3b1c1c1e",
+
       "ratings": 4.6
+
     },
+
     {
+
       "id": 5,
+
       "name": "Backpack",
+
       "description": "Water-resistant backpack with multiple compartments",
+
       "price": 59,
+
       "category": "Accessories",
+
       "stock": 120,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+
       "ratings": 4.4
+
     },
+
     {
+
       "id": 6,
+
       "name": "Smartwatch",
+
       "description": "Fitness-focused smartwatch with heart-rate monitoring",
+
       "price": 199,
+
       "category": "Electronics",
+
       "stock": 40,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1517842644920-1b7b3b1c1c1e",
+
       "ratings": 4.2
+
     },
+
     {
+
       "id": 7,
+
       "name": "Desk Lamp",
+
       "description": "Adjustable LED desk lamp with USB charging port",
+
       "price": 39,
+
       "category": "Home Essentials",
+
       "stock": 60,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1588702547920-1c1c1c1c1c1c",
+
       "ratings": 4.5
+
     },
+
     {
+
       "id": 8,
+
       "name": "Yoga Mat",
+
       "description": "Eco-friendly yoga mat with non-slip surface",
+
       "price": 29,
+
       "category": "Fitness",
+
       "stock": 90,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1588702547920-1c1c1c1c1c1c",
+
       "ratings": 4.8
+
     },
+
     {
+
       "id": 9,
+
       "name": "Gaming Mouse",
+
       "description": "High-precision wired gaming mouse with RGB lighting",
+
       "price": 49,
+
       "category": "Electronics",
+
       "stock": 35,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1588702547920-1c1c1c1c1c1c",
+
       "ratings": 4.6
+
     },
+
     {
+
       "id": 10,
+
       "name": "T-shirt",
+
       "description": "Comfortable cotton t-shirt available in various sizes",
+
       "price": 19,
+
       "category": "Clothing",
+
       "stock": 200,
-      "imageUrl": "https://via.placeholder.com/150",
+
+      "imageUrl": "https://images.unsplash.com/photo-1588702547920-1c1c1c1c1c1c",
+
       "ratings": 4.3
+
     }
+
   ],
+
   "categories": [
+
     { "id": 1, "name": "Electronics" },
+
     { "id": 2, "name": "Footwear" },
+
     { "id": 3, "name": "Clothing" },
+
     { "id": 4, "name": "Accessories" },
+
     { "id": 5, "name": "Home Essentials" },
+
     { "id": 6, "name": "Fitness" }
+
   ],
+
   "orders": [
+
     {
+
       "id": 1,
+
       "productId": 1,
+
       "quantity": 2,
+
       "totalPrice": 1398,
+
       "orderDate": "2024-12-01"
+
     }
+
   ]
+
 }
